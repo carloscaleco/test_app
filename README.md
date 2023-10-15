@@ -23,6 +23,7 @@ Things you may want to cover:
 
 * Git Hub repository
 * First test repo 
+* New test
 
 
 * ...
